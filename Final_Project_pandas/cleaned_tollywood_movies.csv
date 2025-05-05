@@ -1,0 +1,9 @@
+MovieID,Title,Director,Genre,ReleaseYear,Budget (Crores),BoxOffice (Crores),Rating,Duration (minutes),LeadActor,LeadActress,ProductionCompany
+MOV004,Baahubali 2: The Conclusion,S. S. Rajamouli,Epic Fantasy Action,2017,250.0,1810.0,8.2,171,Prabhas,Anushka Shetty,Arka Media Works
+MOV021,Bahubali: The Beginning,S. S. Rajamouli,Epic Fantasy Action,2015,180.0,650.0,8.1,159,Prabhas,Tamannaah,Arka Media Works
+MOV023,Sye Raa Narasimha Reddy,Surender Reddy,Historical Action,2019,200.0,265.0,7.1,167,Chiranjeevi,Nayanthara,Konidela Production Company
+MOV025,Jersey,Gowtam Tinnanuri,Sports Drama,2019,20.0,45.0,7.8,162,Nani,Shraddha Srinath,Sithara Entertainments
+MOV027,Geetha Govindam,Parasuram,Romantic Comedy,2018,10.0,130.0,7.677777777777777,148,Vijay Deverakonda,Rashmika Mandanna,GA2 Pictures
+MOV029,Dear Comrade,Bharat Kamma,Romantic Drama,2019,15.0,35.0,7.1,170,Vijay Deverakonda,Rashmika Mandanna,Mythri Movie Makers
+MOV034,Sarileru Neekevvaru,Anil Ravipudi,Action Comedy,2020,75.0,260.0,7.1,169,Mahesh Babu,Rashmika Mandanna,AK Entertainments
+MOV036,Bheeshma,Venky Kudumula,Romantic Comedy,2020,20.0,50.0,7.4,145,Nithiin,Rashmika Mandanna,Sithara Entertainments
